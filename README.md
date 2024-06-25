@@ -37,7 +37,7 @@ O Aplicativo de Monitoramento de Saúde e Bem-Estar FITJourney é uma ferramenta
    - Definir textos e temas da interface via XML.
 
 3. **Imagens**
-   - Permitir o uso de fotos das refeições e ícones das atividades.
+   - Permitir o uso de fotos de atividades fisicas ou refeições
 
 4. **Sons**
    - Utilizar notificações sonoras para lembretes e alarmes.
@@ -49,13 +49,10 @@ O Aplicativo de Monitoramento de Saúde e Bem-Estar FITJourney é uma ferramenta
    - Fornecer navegação entre as diferentes seções do aplicativo.
 
 7. **Alarme**
-   - Configurar lembretes para atividades físicas, refeições e hidratação.
+   - Configurar lembretes para atividades físicas, refeições ou hidratação.
 
-8. **Câmera**
-   - Permitir que os usuários tirem fotos das refeições.
-
-9. **Mapas**
-   - Mostrar a localização de pontos para a prática de exercícios, como parques e equipamentos ao ar livre.
+8. **Mapas**
+   - Mostrar a localização nas fotos, espécie de checkin
 
 ## Estrutura do Projeto
 O projeto estará organizado em diferentes módulos, utilizando fragmentos para facilitar a navegação e a modularização do código. As principais seções do aplicativo incluem telas de login, registro de usuários, registro diário de atividades, e localização através de mapas.
